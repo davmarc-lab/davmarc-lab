@@ -5,29 +5,12 @@
   </a>
 </p>
 
-## 📧 My Social:
-<p align="center">
-  <a href="https://www.instagram.com/marchetti.davide01/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/davide-marchetti-0a093217b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-</p>
-
 ## 🎵 My Music Taste:
 <div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=getokan2&unique=1&width=300&count=3">
+  <a href="https://open.spotify.com/user/getokan2?si=8e0a29058c40405a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=getokan2&unique=1&width=300&count=3">
   </a>
 </div>
-
-## 🤪 Random Dev Joke:
-<p align="center">
-  <a href="https://readme-jokes.vercel.app/api?hideBorder">
-   <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%236699ff">
-  </a>
-</p>
 
 ## 🏆 My GitHub stats:
 <div>

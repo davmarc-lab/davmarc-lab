@@ -1,7 +1,7 @@
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,java,python,html,css,php,github,git,bash,markdown,linux"/>
+    <img src="https://skillicons.dev/icons?i=neovim,c,cpp,java,python,html,css,php,github,git,bash,markdown,linux"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 </div>
 
 ## 🏆 My GitHub stats:
-<div>
+<div display="block">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=davmarc-lab&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
@@ -26,17 +26,11 @@
   -->
 </div>
 
-<!--
-**davmarc-lab/davmarc-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ My arch config:
+<div>
+<a href="https://github.com/davmarc-lab/arch-config">
+  Check out my configuration
+</a>
+</div>

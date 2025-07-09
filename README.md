@@ -5,13 +5,6 @@
   </a>
 </p>
 
-## 🎵 My Music Taste:
-<div align="center">
-  <a href="https://open.spotify.com/user/getokan2?si=8e0a29058c40405a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=getokan2&unique=1&width=300&count=3">
-  </a>
-</div>
-
 ## 🏆 My GitHub stats:
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">

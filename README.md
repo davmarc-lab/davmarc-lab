@@ -2,9 +2,9 @@
 
 <div align="left">
   
-  👤 Hi, I'm Davide and I am 23 years old
+  👤 Hi, I'm Davide and I am 24 years old
   
-  🎓 I'm studying Computer Science Engineering
+  🎓 Computer Science Engineering Bachelor
 </div>
 
 <!--

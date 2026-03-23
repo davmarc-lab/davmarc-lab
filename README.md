@@ -14,7 +14,7 @@
 -->
 <div align="left">
   
-  🛠️ Currently I'm working on High Performance Computing assignment in CUDA
+  🛠️ Currently I'm working on QtQuick desktop components
 
   🎵 I like music!
 </div>
